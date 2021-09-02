@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssemblySolutionClient/1.0.0": {
+        "dependencies": {
+          "AssemblyClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AssemblySolutionClient.dll": {}
+        }
+      },
+      "AssemblyClassLibrary/1.0.0": {
+        "runtime": {
+          "AssemblyClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssemblySolutionClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssemblyClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
